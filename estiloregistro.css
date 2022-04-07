@@ -70,10 +70,11 @@ p {
 .banner .btn{
     font-family: monospace;
     border: 0px;
-    margin-top: 10px;
+    margin-top: 30px;
+    margin-bottom: 25px;
     font-weight: 600;
-    background-color: #ff0000;
-    color: rgb(255, 255, 255);
+    background-color: #e75459;
+    color: white;
     font-size: 18px;
     border-radius: 200px;
     padding: 10px 15px;
@@ -93,9 +94,9 @@ input {
 
 .card {
     overflow: hidden;
+    width: 500px; height: 450px; 
     background-image: url(https://c.tenor.com/knqFRdji8ucAAAAC/ocean-sea.gif);
     background-size: cover;
-    width: 500px; height: 450px; 
     margin-top: 50px;
     box-shadow: 10px 05px black;
  }
